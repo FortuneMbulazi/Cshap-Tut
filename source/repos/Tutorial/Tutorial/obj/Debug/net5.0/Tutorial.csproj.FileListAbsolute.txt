@@ -1,0 +1,8 @@
+C:\Users\user-pc\source\repos\Tutorial\Tutorial\obj\Debug\net5.0\Tutorial.csproj.AssemblyReference.cache
+C:\Users\user-pc\source\repos\Tutorial\Tutorial\obj\Debug\net5.0\Tutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user-pc\source\repos\Tutorial\Tutorial\obj\Debug\net5.0\Tutorial.AssemblyInfoInputs.cache
+C:\Users\user-pc\source\repos\Tutorial\Tutorial\obj\Debug\net5.0\Tutorial.AssemblyInfo.cs
+C:\Users\user-pc\source\repos\Tutorial\Tutorial\obj\Debug\net5.0\Tutorial.csproj.CoreCompileInputs.cache
+C:\Users\user-pc\source\repos\Tutorial\Tutorial\obj\Debug\net5.0\Tutorial.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user-pc\source\repos\Tutorial\Tutorial\obj\Debug\net5.0\Tutorial.RazorAssemblyInfo.cache
+C:\Users\user-pc\source\repos\Tutorial\Tutorial\obj\Debug\net5.0\Tutorial.RazorAssemblyInfo.cs

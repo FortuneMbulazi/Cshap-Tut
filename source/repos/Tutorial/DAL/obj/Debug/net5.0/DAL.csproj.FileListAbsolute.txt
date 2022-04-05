@@ -1,0 +1,4 @@
+C:\Users\user-pc\source\repos\Tutorial\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user-pc\source\repos\Tutorial\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+C:\Users\user-pc\source\repos\Tutorial\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+C:\Users\user-pc\source\repos\Tutorial\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
